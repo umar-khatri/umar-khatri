@@ -98,7 +98,7 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=58A6FF&style=for-the-badge&label=Profile+Views)
+![Views](https://img.shields.io/badge/Profile_Views-1.2k+-58A6FF?style=for-the-badge&logo=github)
 
 </div>
 
