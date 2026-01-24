@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-🎓 Computer Science student passionate about **Mobile Development**, **Machine Learning**, and **Digital Image Processing**
+🎓 Computer Science student passionate about **Web Development**, **App Development** , **Machine Learning**
 
 🚀 Currently building **SHEild** - A comprehensive women's safety mobile application
 
