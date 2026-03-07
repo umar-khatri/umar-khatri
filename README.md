@@ -195,16 +195,3 @@ fun_fact: "MMA enthusiast who fights bugs
 <div align="center">
   <b>⭐ If you like what I build, star my repos — it fuels the grind! ⭐</b>
 </div>
-
-
-
-This is my GitHub profile code rn 
-
-Update it make everything working
-Like GitHub trophies is blank analytics blank 
-
-And in contributions streak sections add realistic static analytics profile views static and connect with me keep mail portfolio and LinkedIn 
-
-umar-khatri LinkedIn url
-umark.me portfolio url
-And mail is 3007uk@gmail.com
