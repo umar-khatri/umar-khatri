@@ -1,4 +1,3 @@
-Here is the complete, single copy-paste code with the "Featured Projects" section removed and no double dividers:
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:6AD3F7&height=220&section=header&text=Umar%20Khatri&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=CS%20Student%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20ML%20Enthusiast&descAlignY=55&descSize=18"/>
@@ -11,6 +10,7 @@ Here is the complete, single copy-paste code with the "Featured Projects" sectio
 
 </div>
 
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
@@ -33,82 +33,178 @@ currently_learning:
 
 fun_fact: "MMA enthusiast who fights bugs
            in code AND on the mat 🥋"
+```
 
 <br clear="both"/>
+
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-🏆 GitHub Trophies
+
+## 🏆 GitHub Trophies
+
 <div align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/🏆_Super_Star-Level_3-0d1117?style=for-the-badge&labelColor=6AD3F7&color=0d1117" alt="Super Star"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/🌟_Multi_Language-Level_4-0d1117?style=for-the-badge&labelColor=6AD3F7&color=0d1117" alt="Multi Language"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/🔥_Active_Committer-Level_5-0d1117?style=for-the-badge&labelColor=6AD3F7&color=0d1117" alt="Active Committer"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/📦_Global_Reach-Level_2-0d1117?style=for-the-badge&labelColor=6AD3F7&color=0d1117" alt="Global Reach"/>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=UmarKhatri&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
+
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-🛠️ Tech Arsenal
+
+## 🛠️ Tech Arsenal
+
 <div align="center">
-Languages
+
+### **Languages**
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cs&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cs&theme=dark" alt="Languages" />
 </p>
-Frontend & Web
+
+### **Frontend & Web**
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,threejs,html,css,tailwind&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,threejs,html,css,tailwind&theme=dark" alt="Frontend" />
 </p>
-Backend & Database
+
+### **Backend & Database**
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend" />
 </p>
-Mobile Development
+
+### **Mobile Development**
 <p>
-<img src="https://skillicons.dev/icons?i=react,androidstudio&theme=dark" alt="Mobile" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="48" alt="Expo" />
+  <img src="https://skillicons.dev/icons?i=react,androidstudio&theme=dark" alt="Mobile" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="48" alt="Expo" />
 </p>
-ML & AI
+
+### **ML & AI**
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="ML" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="48" alt="scikit-learn" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge&logo=python&logoColor=white" height="48" alt="NLTK" />
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="ML" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="48" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge&logo=python&logoColor=white" height="48" alt="NLTK" />
 </p>
-Tools & DevOps
+
+### **Tools & DevOps**
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux&theme=dark" alt="Tools" />
 </p>
+
 </div>
+
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-📊 GitHub Analytics & Streaks
+
+## 📊 GitHub Analytics
+
 <div align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Total_Commits-1,245-0d1117%3Fstyle%3Dfor-the-badge%26labelColor%3D6AD3F7" alt="Total Commits" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Total_Stars-42-0d1117%3Fstyle%3Dfor-the-badge%26labelColor%3D6AD3F7" alt="Total Stars" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PRs_Opened-34-0d1117%3Fstyle%3Dfor-the-badge%26labelColor%3D6AD3F7" alt="PRs Opened" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Issues_Contributed-15-0d1117%3Fstyle%3Dfor-the-badge%26labelColor%3D6AD3F7" alt="Issues Contributed" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UmarKhatri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=c9d1d9&count_private=true" alt="Umar's GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarKhatri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </div>
+
+<br/>
+
 <div align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Longest_Streak-45_Days-0d1117%3Fstyle%3Dfor-the-badge%26labelColor%3D6AD3F7%26logo%3Dgithub" alt="Longest Streak" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Current_Streak-12_Days-0d1117%3Fstyle%3Dfor-the-badge%26labelColor%3DFF6B6B%26logo%3Dgithub" alt="Current Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmarKhatri&theme=tokyonight&hide_border=true&background=0d1117&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7&sideLabels=6AD3F7" alt="GitHub Streak"/>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UmarKhatri&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=ffffff&area=true&area_color=6AD3F7&hide_border=true" alt="Contribution Graph" width="95%"/>
+</div>
+
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-🌐 Connect With Me
+
+## 🚀 Featured Projects
+
 <div align="center">
+
+<a href="https://github.com/UmarKhatri/SHEild">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UmarKhatri&repo=SHEild&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=6AD3F7" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/UmarKhatri/project_3D_developer_portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UmarKhatri&repo=project_3D_developer_portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=6AD3F7" />
+</a>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/UmarKhatri/UmarKhatri/output/github-snake-dark.svg)
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
 <a href="https://umark.me" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-6AD3F7?style=for-the-badge&logo=Google-chrome&logoColor=0d1117" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-6AD3F7?style=for-the-badge&logo=Google-chrome&logoColor=0d1117" alt="Portfolio"/>
 </a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/umar-khatri" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:3007uk@gmail.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<a href="mailto:YOUR_EMAIL" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+<a href="YOUR_INSTAGRAM_URL" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="YOUR_YOUTUBE_URL" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="YOUR_DISCORD_URL" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+
 </div>
+
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-💭 Dev Quote of the Day
+
+## 💭 Dev Quote of the Day
+
 <div align="center">
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
 </div>
+
+<br/>
+
 <div align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PROFILE_VIEWS-4,892-6AD3F7%3Fstyle%3Dfor-the-badge%26logoColor%3D0d1117" alt="Profile Views"/>
+  
+  <img src="https://komarev.com/ghpvc/?username=UmarKhatri&style=for-the-badge&color=6AD3F7&label=PROFILE+VIEWS" alt="Profile Views"/>
+
 </div>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:6AD3F7&height=120&section=footer"/>
+
 <div align="center">
-<b>⭐ If you like what I build, star my repos — it fuels the grind! ⭐</b>
+  <b>⭐ If you like what I build, star my repos — it fuels the grind! ⭐</b>
 </div>
 
 
+
+This is my GitHub profile code rn 
+
+Update it make everything working
+Like GitHub trophies is blank analytics blank 
+
+And in contributions streak sections add realistic static analytics profile views static and connect with me keep mail portfolio and LinkedIn 
+
+umar-khatri LinkedIn url
+umark.me portfolio url
+And mail is 3007uk@gmail.com
